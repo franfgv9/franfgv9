@@ -1,4 +1,4 @@
-## Fran Gil Valverde · Ciencia de Datos e IA
+## Francisco Gil Valverde · Ciencia de Datos e IA
 
 Estudiante de último año del **Grado en Ciencia e Ingeniería de Datos en la Universidad de Murcia**, con una estancia Erasmus+ en la Universidade de Coimbra.
 
