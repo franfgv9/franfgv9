@@ -1,20 +1,20 @@
-## Hola, soy Fran 👋
+## Fran Gil Valverde · Ciencia de Datos e IA
 
 Estudiante de último año del **Grado en Ciencia e Ingeniería de Datos en la Universidad de Murcia**, con una estancia Erasmus+ en la Universidade de Coimbra.
 
 Me interesa construir soluciones útiles con IA: entender el problema, desarrollar el modelo y evaluar cuándo funciona y dónde falla.
 
-**En qué ando**
+**Áreas de trabajo**
 
 - Machine Learning y Deep Learning: clasificación, visión artificial y aprendizaje por refuerzo.
 - NLP y LLM locales: comparación de enfoques y análisis de errores.
 - Forecasting e ingeniería de datos: probabilidades, series temporales y pipelines.
 
-**Herramientas**
+**Tecnologías que utilizo**
 
 `Python` · `PyTorch` · `scikit-learn` · `Pandas` · `NumPy` · `Docker` · `Git`
 
-**Mi siguiente paso**
+**Objetivo profesional**
 
 Busco prácticas curriculares en Machine Learning, IA o Data Science, principalmente en Murcia, para seguir aprendiendo con un equipo técnico.
 
